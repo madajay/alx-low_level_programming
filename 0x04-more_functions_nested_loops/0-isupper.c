@@ -7,7 +7,7 @@
  * Return: 1 for true and 0 for false
  */
 
-int _isupper(int c)
+int _isupper(int c);
 
 /**
  * _isupper - function definition
